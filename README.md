@@ -12,7 +12,7 @@ I'm also doing a second master's, in Geophysics. Before that I spent more than f
 ## Earlier work
 
 * **Geospatial equipment and software.** Three years in geomatics, preparing, testing and configuring equipment, training users and giving technical support. I worked with everything from software to drones, GNSS receivers, total stations, mobile and static lidar scanners, 360° cameras, ground penetrating radar and more.
-* **Cadaster automation with ArcPy.** ArcMap toolboxes for Romanian land registration work: converting e-Terra CGXML files to shapefiles, merging thousands of layers, pulling owner and deed data into one table, batch DXF export, spatial joins, area calculations and fixes for common Generare CG errors. Developed for real data from three rural communes in Gorj County, the tools cut processing time by more than 90%. This was my MSc thesis at West University of Timișoara (2025).
+* **Cadaster automation with ArcPy.** ArcMap toolboxes for Romanian land registration work: converting e-Terra CGXML files to shapefiles, merging thousands of layers, pulling owner and deed data into one table, batch DXF export, spatial joins, area calculations and fixes for common Generare CG errors. Developed for real data from three rural communes in Gorj County, the tools cut processing time by more than 90%.
 
 ## Tools I use
 
