@@ -17,7 +17,7 @@ I'm also doing a second master's, in Geophysics. Before that I spent more than f
 ## Tools I use
 
 * **GIS and remote sensing:** ArcGIS (ArcMap, ArcGIS Pro, ArcGIS Enterprise) · QGIS · Pix4D · OpenDroneMap · eCognition
-* **Programming:** Python (ArcPy, GeoPandas, NumPy, lxml)
+* **Programming and databases:** Python (ArcPy, GeoPandas, NumPy, lxml) · PostgreSQL · PostGIS · pgSTAC
 * **Web mapping and data catalogues:** MapLibre · STAC
 * **Computing:** Linux · SLURM · GPU computing
 
